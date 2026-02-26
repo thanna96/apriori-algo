@@ -1,0 +1,31 @@
+item_id,item_name,category,price_usd,rating,num_reviews,in_stock
+1,Wireless Bluetooth Earbuds,Electronics,39.99,4.4,2150,Yes
+2,Stainless Steel Water Bottle 32oz,Home & Kitchen,18.95,4.7,5320,Yes
+3,Memory Foam Bed Pillow,Home & Kitchen,24.50,4.3,890,Yes
+4,USB-C Charging Cable 6ft,Electronics,9.99,4.6,1740,Yes
+5,Cotton Bath Towel Set 4-Pack,Home & Kitchen,27.99,4.1,420,Yes
+6,Nonstick Frying Pan 10-Inch,Home & Kitchen,22.49,4.5,1960,Yes
+7,LED Desk Lamp with USB Port,Office Products,29.99,4.4,1310,Yes
+8,Organic Dark Roast Coffee Beans,Grocery,15.99,4.2,670,Yes
+9,Electric Toothbrush with 2 Heads,Health & Personal Care,34.95,4.3,980,Yes
+10,Shower Curtain Liner Waterproof,Home & Kitchen,11.99,4.0,310,Yes
+11,Laptop Backpack 15.6-Inch,Office Products,44.99,4.6,2540,Yes
+12,Reusable Grocery Tote Bag Set,Grocery,13.49,4.5,610,Yes
+13,Smart LED Light Bulb 2-Pack,Electronics,19.99,4.3,1750,Yes
+14,Ceramic Coffee Mug 14oz,Home & Kitchen,9.49,4.2,280,Yes
+15,Folding Step Stool,Home Improvement,17.89,4.5,920,Yes
+16,Battery Pack 10000mAh,Electronics,29.50,4.4,1990,Yes
+17,Wireless Mouse Ergonomic,Electronics,16.99,4.3,1450,Yes
+18,Spiral Notebook 3-Pack,Office Products,7.99,4.1,360,Yes
+19,Cotton Queen Sheet Set,Home & Kitchen,39.95,4.2,780,Yes
+20,Stainless Steel Travel Mug,Home & Kitchen,14.99,4.6,2140,Yes
+21,Non-Slip Bath Mat,Home & Kitchen,12.49,4.0,330,Yes
+22,Kitchen Knife Set 5-Piece,Home & Kitchen,29.99,4.3,640,Yes
+23,Bluetooth Portable Speaker,Electronics,49.99,4.5,2750,Yes
+24,Laundry Detergent Pods 40-Count,Grocery,15.49,4.4,890,Yes
+25,Microfiber Cleaning Cloths 12-Pack,Home & Kitchen,10.99,4.2,410,Yes
+26,LED Flashlight 2-Pack,Home Improvement,18.99,4.5,960,Yes
+27,Resistance Bands Set,Fitness,21.99,4.4,1330,Yes
+28,Yoga Mat Non-Slip,Fitness,24.99,4.3,710,Yes
+29,Stainless Steel Mixing Bowls 3-Piece,Home & Kitchen,26.99,4.6,980,Yes
+30,Plastic Food Storage Containers 10-Piece,Home & Kitchen,23.49,4.4,1240,Yes
