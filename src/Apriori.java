@@ -3,14 +3,16 @@ import java.util.List;
 public class Apriori {
 
     private final TransactionDB db;
+    private final AprioriMiner miner;
 
     public Apriori(TransactionDB db) {
         this.db = db;
+        this.miner = new AprioriMiner();
     }
 
-    // Placeholder for the Apriori frequent itemset mining algorithm
+    // Backward-compatible wrapper around AprioriMiner.
     public List<Itemset> run(double minSupport) {
-        // TODO: implement Apriori using db.getTransactions()
-        return null;
+        AprioriMiner.MiningResult result = miner.mine(db, minSupport);
+        return result.getFrequentItemsets();
     }
 }
